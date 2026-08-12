@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Hash Table, Sliding Window
 
 ### 🚀 Performance
-- **Runtime:** 252 ms
-- **Memory:** 35.3 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
