@@ -1,6 +1,6 @@
 # 📝 239. Sliding Window Maximum (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/sliding-window-maximum/solutions/871317/clear-thinking-process-with-picture-brut-hfkh/)
+🔗 [Problem Link](https://leetcode.com/problems/sliding-window-maximum/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
