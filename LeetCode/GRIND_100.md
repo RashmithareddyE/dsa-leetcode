@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 3 / 100 (3.0%)
+- **Completed:** 4 / 100 (4.0%)
 
 ---
 
@@ -16,7 +16,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Move Zeroes
 - [x] [Sort Colors](./Python/Medium/75. Sort Colors/)
 - [ ] Product of Array Except Self
-- [ ] Next Permutation
+- [x] [Next Permutation](./Python/Medium/31. Next Permutation/)
 - [ ] Trapping Rain Water
 - [ ] Find the Duplicate Number
 - [ ] Majority Element
