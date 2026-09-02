@@ -3,21 +3,33 @@ class Solution:
         rows = len(matrix)
         cols = len(matrix[0])
 
-        for r in range(rows):
-            if target <= matrix[r][cols - 1]:
-                low = 0
-                high = cols - 1
+        low = 0
+        high = rows - 1
 
-                while low <= high:
-                    mid = (low + high) // 2
+        while low <= high:
+            mid = (low + high) // 2
 
-                    if matrix[r][mid] == target:
-                        return True
-                    elif matrix[r][mid] < target:
-                        low = mid + 1
-                    else:
-                        high = mid - 1
+            if matrix[mid][cols - 1] < target:
+                low = mid + 1
+            else:
+                high = mid - 1
 
-                return False
+        row = low
+
+        if row == rows:
+            return False
+
+        low = 0
+        high = cols - 1
+
+        while low <= high:
+            mid = (low + high) // 2
+
+            if matrix[row][mid] == target:
+                return True
+            elif matrix[row][mid] < target:
+                low = mid + 1
+            else:
+                high = mid - 1
 
         return False
