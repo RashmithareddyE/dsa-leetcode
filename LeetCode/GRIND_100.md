@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 100 (8.0%)
+- **Completed:** 9 / 100 (9.0%)
 
 ---
 
@@ -18,7 +18,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Product of Array Except Self
 - [x] [Next Permutation](./Python/Medium/31. Next Permutation/)
 - [ ] Trapping Rain Water
-- [ ] Find the Duplicate Number
+- [x] [Find the Duplicate Number](./Python/Medium/287. Find the Duplicate Number/)
 - [ ] Majority Element
 - [ ] Find All Numbers Disappeared in an Array
 
