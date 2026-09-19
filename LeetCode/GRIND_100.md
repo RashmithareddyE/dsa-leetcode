@@ -19,7 +19,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Next Permutation](./Python/Medium/31. Next Permutation/)
 - [ ] Trapping Rain Water
 - [x] [Find the Duplicate Number](./Python/Medium/287. Find the Duplicate Number/)
-- [x] [Majority Element](./C++/Easy/169. Majority Element/)
+- [x] [Majority Element](./Python/Easy/169. Majority Element/)
 - [ ] Find All Numbers Disappeared in an Array
 
 ### 📂 Subarray & Sliding Window
